@@ -69,7 +69,3 @@ Site     | URL
 ---------|-------------------------------
 Github   | https://github.com/song1571
 Twitter  | https://songsh96kr.tistory.com/
-
-
-YYYY년 MM월 DD일
-{송성회}
