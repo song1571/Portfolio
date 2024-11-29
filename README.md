@@ -41,6 +41,11 @@ https://github.com/song1571/Javaprogramming
 
 HTML, CSS, JavaScript 계산기 프로젝트
 https://github.com/song1571/Html-Css-Jss
+- **설명**: HTML, CSS, JavaScript를 사용하여 간단한 계산기 애플리케이션을 구현하였습니다.  
+  16진수(HEX)와 10진수(DEC) 간의 변환도 지원합니다.
+- **기술 스택**: HTML, CSS, JavaScript
+- **성과**: JavaScript의 기본 로직을 이해하고, 사용자 친화적인 UI를 설계.
+
 
 
 
