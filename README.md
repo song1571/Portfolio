@@ -29,21 +29,11 @@ Religion   | 없음
 
 Level       | School Name    | Major            | Start   | End     | Status    | 최종학력
 ------------|----------------|------------------|---------|---------|-----------|--------
-University  | Daegu University | Department of Business Administration | 2015.03 | 2022.08 | graduated | 최종
-
+University  | 대구대학교 | 경상대 경영학과 | 2015.03 | 2022.08 | 졸업 | 최종
+  | 한국 IT 교육원 | [기업맞춤 PBT] 클라우드 기반 AI 서비스 | 2024.06 | 2024.12 | 훈련중 | 
   
 ## 오픈소스 프로젝트 <small>(2012.03 ~ 현재)</small>
-* 프로젝트 공식 명칭
-  - 소개  
-  > 프로젝트에 대한 간략한 소개를 한다.  
-  - 주요기능  
-  > * 주요 기능을 일일이 상세히 나열한다.  
-  - 사용기술    
-  > * 사용된 기술을 상세히 나열한다.  
-  
-  - 개발기간 : 2013.2.3 을 시작으로 최근까지 [xxx 커밋](https://github.com/rhiokim/resume/commits/master)
-  - 공식 사이트 - [http://rhiokim.github.io/resume](http://rhiokim.github.io/resume)
-  - 소스 저장소 - [https://github.com/rhiokim/resume](https://github.com/rhiokim/resume)  
+
   
 * 마크다운 이력서 표준화 프로젝트
   - 소개  
