@@ -36,8 +36,12 @@ Religion   | 없음
 
 ## 🛠 Projects
 
-자바 프로그래밍 포트폴리오 시험 평가
+### 1. 자바 프로그래밍 포트폴리오 시험 평가
 https://github.com/song1571/Javaprogramming
+- **설명**: 자바로 도서 관리 시스템을 구현하며 도서 및 회원 관리, 대여 및 반납, 검색 기능을 포함하였습니다.  
+- **기술 스택**: Java, Java SE 17, 콘솔 기반 UI  
+- **성과**: 객체지향 설계와 제너릭, 컬렉션 활용을 익히고, 사용자 중심의 인터페이스 설계 경험을 쌓았습니다.  
+
 
 ### 2. HTML, CSS, JavaScript 계산기 프로젝트
 https://github.com/song1571/Html-Css-Jss
@@ -45,8 +49,6 @@ https://github.com/song1571/Html-Css-Jss
   16진수(HEX)와 10진수(DEC) 간의 변환도 지원합니다.
 - **기술 스택**: HTML, CSS, JavaScript
 - **성과**: JavaScript의 기본 로직을 이해하고, 사용자 친화적인 UI를 설계.
-
-
 
 
 ## Certifications & Courses  
