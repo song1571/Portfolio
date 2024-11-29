@@ -61,7 +61,7 @@ Religion   | 없음
 - 대구대학교 경영학과 졸업
 - 한국 IT 교육원 수료예정(2024.12.26 수료예정)
    ##  **[교육과정 보기](./커리큘럼.md)** 
-    ![스크린샷 2024-11-29 111737](https://github.com/user-attachments/assets/7c95a2a7-9f14-4c4a-a663-f249da213223)
+    [[교육 내용]](https://github.com/kkang45597/PBT_Cloud_AI_Service)
 
 ## 소셜
 Site     | URL
