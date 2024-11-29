@@ -33,7 +33,15 @@ Religion   | 없음
 대구대학교 | 경상대 경영학과 | 2015-03 ~ 2022-08
 한국 IT 교육원 | [기업맞춤 PBT] 클라우드 기반 AI 서비스 | 2024-06-24 ~ 2024-12-26
 * * *
-  
+
+자바 프로그래밍 포트폴리오 시험 평가
+https://github.com/song1571/Javaprogramming
+
+HTML, CSS, JavaScript 계산기 프로젝트
+https://github.com/song1571/Html-Css-Jss
+
+
+
 ## Certifications & Courses  
 
 ### Certifications
