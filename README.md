@@ -39,7 +39,7 @@ Religion   | 없음
 자바 프로그래밍 포트폴리오 시험 평가
 https://github.com/song1571/Javaprogramming
 
-HTML, CSS, JavaScript 계산기 프로젝트
+### 2. HTML, CSS, JavaScript 계산기 프로젝트
 https://github.com/song1571/Html-Css-Jss
 - **설명**: HTML, CSS, JavaScript를 사용하여 간단한 계산기 애플리케이션을 구현하였습니다.  
   16진수(HEX)와 10진수(DEC) 간의 변환도 지원합니다.
