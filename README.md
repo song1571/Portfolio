@@ -34,6 +34,10 @@ Religion   | 없음
 한국 IT 교육원 | [기업맞춤 PBT] 클라우드 기반 AI 서비스 | 2024-06-24 ~ 2024-12-26
 * * *
   
+## Certifications & Courses  
+
+### Certifications
+- GTQ 2급
 
   
 ### Courses
