@@ -67,5 +67,5 @@ https://github.com/song1571/Html-Css-Jss
 ## 소셜
 Site     | URL
 ---------|-------------------------------
-Github   | https://github.com/song1571
+Github   | https://github.com/song1571/
 Twitter  | https://songsh96kr.tistory.com/
