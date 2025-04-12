@@ -61,7 +61,7 @@ https://github.com/song1571/Html-Css-Jss
 - 대구대학교 경영학과 졸업
 - 한국 IT 교육원 수료예정(2024.12.26 수료예정)
    ##  **[교육과정 보기](./커리큘럼.md)** 
-   ![스크린샷 2024-11-29 152704](https://github.com/user-attachments/assets/605b2f17-1adc-4420-871c-0a47adf8089c)
+   <img width="649" alt="image" src="https://github.com/user-attachments/assets/e138192c-469e-405b-8357-18cf6c87c9db" />
 
 
 ## 소셜
