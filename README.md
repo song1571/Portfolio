@@ -42,7 +42,6 @@ https://github.com/song1571/Javaprogramming
 - **기술 스택**: Java, Java SE 17, 콘솔 기반 UI  
 - **성과**: 객체지향 설계와 제너릭, 컬렉션 활용을 익히고, 사용자 중심의 인터페이스 설계 경험을 쌓았습니다.  
 
-
 ### 2. HTML, CSS, JavaScript 계산기 프로젝트
 https://github.com/song1571/Html-Css-Jss
 - **설명**: HTML, CSS, JavaScript를 사용하여 간단한 계산기 애플리케이션을 구현하였습니다.  
@@ -50,7 +49,17 @@ https://github.com/song1571/Html-Css-Jss
 - **기술 스택**: HTML, CSS, JavaScript
 - **성과**: JavaScript의 기본 로직을 이해하고, 사용자 친화적인 UI를 설계.
 
-### 3. GOPANG Project  
+### 3. NoticeBoard Project  
+https://github.com/song1571/Backend
+- **설명**: 게시판 만들기 프로젝트  
+- **개발기간**: 2024.11.18 ~ 2024.11.29  
+- **인력구성**: 1명  
+
+#### Back-end  
+- **Language**: Java  
+- **Skill**: SpringBoot, AWS, JWT, MySQL  
+
+### 4. GOPANG Project  
 https://github.com/song1571/Gopang-Project  
 - **설명**: MSA(Microservice Architecture)를 활용한 프로젝트로, 각각의 서비스를 독립적으로 구축하고 Docker 및 Jenkins를 이용해 CI/CD 환경을 구현함.  
 - **개발기간**: 2024.12.01 ~ 2024.12.20  
