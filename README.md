@@ -50,6 +50,14 @@ https://github.com/song1571/Html-Css-Jss
 - **기술 스택**: HTML, CSS, JavaScript
 - **성과**: JavaScript의 기본 로직을 이해하고, 사용자 친화적인 UI를 설계.
 
+### 3. GOPANG Project  
+https://github.com/song1571/Gopang-Project  
+- **설명**: MSA(Microservice Architecture)를 활용한 프로젝트로, 각각의 서비스를 독립적으로 구축하고 Docker 및 Jenkins를 이용해 CI/CD 환경을 구현함.  
+- **개발기간**: 2024.12.01 ~ 2024.12.20  
+- **인력구성**: 1명  
+- **Language**: Java  
+- **Skill**: SpringBoot, JPA, MySQL, Docker, Jenkins  
+
 
 ## Certifications & Courses  
 
